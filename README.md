@@ -62,7 +62,14 @@ I'm a passionate full-stack developer who loves crafting digital experiences tha
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbeerPanwar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%">
 </div>
 
-## Let's Collaborate!
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbeerPanwar&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies">
+</div>
+
+## 🤝 Let's Collaborate!
+I'm always open to collaborating on exciting projects, especially those involving innovative ideas, open-source contributions, or real-world problem solving. If you have something cool in mind, feel free to reach out — let’s build something awesome together!
 
 connect me through my email: panwarabeer6@gmail.com 
 ---
