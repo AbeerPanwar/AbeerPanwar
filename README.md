@@ -59,13 +59,13 @@ I'm a passionate full-stack developer who loves crafting digital experiences tha
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; **Contribution Activity**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbeerPanwar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbeerPanwar&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%>
 </div>
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbeerPanwar&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbeerPanwar&theme=radical&no-frame=false&no-bg=false&margin-w=4">
 </div>
 
 ## 🤝 Let's Collaborate!
