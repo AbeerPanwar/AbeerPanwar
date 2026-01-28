@@ -29,7 +29,7 @@ I'm a passionate full-stack developer who loves crafting digital experiences tha
 
 ### Technologies & Frameworks
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,gradle,nodejs,materialui,supabase&perline=8" />
+  <img src="https://skillicons.dev/icons?i=flutter,gradle,fastapi,postgresql,supabase,materialui&perline=8" />
 </div>
 
 ### Tools & Environment
